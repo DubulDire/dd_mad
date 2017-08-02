@@ -1,2 +1,3 @@
 # dd_mad
-Mobile Application Development
+
+Begin developing for android
